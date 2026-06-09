@@ -1,0 +1,16 @@
+[
+  "tests/test_model.py::TestFeaturePipeline::test_no_nan_in_features",
+  "tests/test_model.py::TestFeaturePipeline::test_transform_consistent_shape",
+  "tests/test_model.py::TestFeaturePipeline::test_transform_returns_array",
+  "tests/test_model.py::TestModel::test_batch_prediction_consistent",
+  "tests/test_model.py::TestModel::test_high_income_predicts_ineligible",
+  "tests/test_model.py::TestModel::test_predict_binary_output",
+  "tests/test_model.py::TestModel::test_predict_proba_shape",
+  "tests/test_model.py::TestModel::test_thresholds_in_valid_range",
+  "tests/test_model.py::TestModel::test_undocumented_predicts_ineligible",
+  "tests/test_model.py::TestModel::test_unemployed_unhoused_predicts_eligible_snap",
+  "tests/test_model.py::TestStructuredFeatures::test_income_signal_extracted",
+  "tests/test_model.py::TestStructuredFeatures::test_structured_features_shape",
+  "tests/test_model.py::TestStructuredFeatures::test_unemployed_flag",
+  "tests/test_model.py::TestStructuredFeatures::test_utility_flag"
+]

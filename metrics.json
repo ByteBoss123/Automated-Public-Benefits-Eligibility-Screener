@@ -1,0 +1,47 @@
+{
+  "SNAP": {
+    "roc_auc": 0.8341,
+    "avg_precision": 0.7739,
+    "f1": 0.6749,
+    "precision": 0.6687,
+    "recall": 0.6813,
+    "threshold": 0.52,
+    "support": 160
+  },
+  "Medicaid": {
+    "roc_auc": 0.8431,
+    "avg_precision": 0.7934,
+    "f1": 0.7097,
+    "precision": 0.6535,
+    "recall": 0.7765,
+    "threshold": 0.5,
+    "support": 170
+  },
+  "Section8_Housing": {
+    "roc_auc": 0.7793,
+    "avg_precision": 0.2503,
+    "f1": 0.1951,
+    "precision": 0.3636,
+    "recall": 0.1333,
+    "threshold": 0.2,
+    "support": 30
+  },
+  "TANF": {
+    "roc_auc": 0.8991,
+    "avg_precision": 0.4895,
+    "f1": 0.4706,
+    "precision": 0.6061,
+    "recall": 0.3846,
+    "threshold": 0.34,
+    "support": 52
+  },
+  "LIHEAP": {
+    "roc_auc": 0.8746,
+    "avg_precision": 0.7774,
+    "f1": 0.7316,
+    "precision": 0.6739,
+    "recall": 0.8,
+    "threshold": 0.54,
+    "support": 155
+  }
+}
